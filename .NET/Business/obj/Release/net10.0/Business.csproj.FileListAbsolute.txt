@@ -1,0 +1,11 @@
+C:\Users\Kevin\Desktop\Examensarbete_Kod\.NET\Business\bin\Release\net10.0\Business.deps.json
+C:\Users\Kevin\Desktop\Examensarbete_Kod\.NET\Business\bin\Release\net10.0\Business.dll
+C:\Users\Kevin\Desktop\Examensarbete_Kod\.NET\Business\bin\Release\net10.0\Business.pdb
+C:\Users\Kevin\Desktop\Examensarbete_Kod\.NET\Business\obj\Release\net10.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Desktop\Examensarbete_Kod\.NET\Business\obj\Release\net10.0\Business.AssemblyInfoInputs.cache
+C:\Users\Kevin\Desktop\Examensarbete_Kod\.NET\Business\obj\Release\net10.0\Business.AssemblyInfo.cs
+C:\Users\Kevin\Desktop\Examensarbete_Kod\.NET\Business\obj\Release\net10.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Examensarbete_Kod\.NET\Business\obj\Release\net10.0\Business.dll
+C:\Users\Kevin\Desktop\Examensarbete_Kod\.NET\Business\obj\Release\net10.0\refint\Business.dll
+C:\Users\Kevin\Desktop\Examensarbete_Kod\.NET\Business\obj\Release\net10.0\Business.pdb
+C:\Users\Kevin\Desktop\Examensarbete_Kod\.NET\Business\obj\Release\net10.0\ref\Business.dll

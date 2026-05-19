@@ -1,0 +1,6 @@
+@Net10Benchmark_HostAddress = http://localhost:5074
+
+GET {{Net10Benchmark_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
